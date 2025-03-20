@@ -1,13 +1,22 @@
-# Awesome SAAS Startup Deals
+# Startup Deals: Exclusive Offers for Entrepreneurs & Businesses
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A directory of high quality startup deals, with terms, conditions and source
+Discover a curated list of exclusive startup deals, discounts, and promotions to help your business grow. This repository aggregates high-quality offers from various companies, providing valuable resources for entrepreneurs and small businesses.  Find deals on SaaS, marketing tools, cloud services, and more.
 
-**Disclaimer**: Some links in this list are affiliate links, which means I might earn a commission if you use them—at no extra cost to you. This helps support the project. Please do not spam or misuse these deals; let’s keep this resource valuable for everyone!
+**Table of Contents**
+- [Disclaimer](#disclaimer)
+- [Deals](#deals)
+- [Contributing](#contributing)
+
+## Disclaimer <a name="disclaimer"></a>
+
+*Transparency Notice*:  Some links in this directory are affiliate links. This means I may earn a small commission if you click on a link and make a purchase, *at no additional cost to you*.  These commissions help support the maintenance and improvement of this project.  Rest assured, I only recommend deals that I believe provide genuine value to startups and entrepreneurs.  Please use these deals responsibly and avoid any misuse. Thanks for supporting this resource!
+
+## Deals <a name="deals"></a>
 
 | Company | About | Deal | Savings | Conditions | Free / Premium |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+|---|---|---|---|---|---|
 | [Google Cloud (GCP)](https://www.joinsecret.com/google-cloud#google-cloud-promocode-200000?via=prosun) | Cloud services by Google | $2,000 in credits for 1 year if you never raised funds // $350,000 in credits for 2 years if you did | Save up to $350,000 | Paying customers accepted | Free |
 | [Stripe](https://www.joinsecret.com/stripe#stripe-coupon?via=prosun) | Manage your online payments | Waived Stripe fees on your next $20,000 in payment processing | Save up to $500 | Paying customers accepted | Premium |
 | [Notion](https://www.joinsecret.com/notion#notion-coupon-1000?via=prosun) | Organize teamwork and increase productivity | 6 months free on the Plus plan with Unlimited AI | Save up to $6,000 | Free users accepted | Premium |
@@ -495,3 +504,8 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Ledgy](https://www.joinsecret.com/ledgy#ledgy-promocode-6500?via=prosun) | Equity management made transparent, simple, and... | 25% off your first year | Save up to $6,500 | Free users accepted | Premium |
 | [Seeqle](https://www.joinsecret.com/seeqle#seeqle-promocode?via=prosun) | Recruitment AI for SMBs and one-off needs | 30% off for 1 year | Save up to $2,844 | Free users accepted | Premium |
 | [SnapCall](https://www.joinsecret.com/snapcall#snapcall-promocode-532?via=prosun) | Boost customer relationships by enabling direct... | 6 months free on Growth plan | Save up to $532 | Free users accepted | Premium |
+
+## Contributing <a name="contributing"></a>
+
+We welcome contributions to this list! If you know of any great startup deals that aren't already included, please submit a pull request. Make sure to include all relevant information (company, deal, savings, conditions, etc.) and ensure the deal is still active.
+
