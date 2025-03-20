@@ -1,8 +1,10 @@
-# Awesome Startup Deals
+# Awesome SAAS Startup Deals
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A directory of high quality startup deals, with terms, conditions and source
+
+**Disclaimer**: Some links in this list are affiliate links, which means I might earn a commission if you use them—at no extra cost to you. This helps support the project. Please do not spam or misuse these deals; let’s keep this resource valuable for everyone!
 
 | Company | About | Deal | Savings | Conditions | Free / Premium |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
